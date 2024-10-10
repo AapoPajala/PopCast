@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "0GZzf4u7lwe0mEEDBVTKLCEMv99SRHPiXXpEwJQ6GZgD4uQtQQ/zZnzVLo9WQ/WfI/MeBzyoFlnjhJEXmxvfVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a4po\\source\\repos\\PopCast\\PopCast\\PopCast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a4po\\.nuget\\packages\\libvlcsharp\\3.9.0\\libvlcsharp.3.9.0.nupkg.sha512",
+    "C:\\Users\\a4po\\.nuget\\packages\\libvlcsharp.winforms\\3.9.0\\libvlcsharp.winforms.3.9.0.nupkg.sha512",
+    "C:\\Users\\a4po\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\a4po\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\a4po\\.nuget\\packages\\videolan.libvlc.windows\\3.0.21\\videolan.libvlc.windows.3.0.21.nupkg.sha512",
+    "C:\\Users\\a4po\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\a4po\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.25\\microsoft.netcore.app.runtime.win-x64.6.0.25.nupkg.sha512",
+    "C:\\Users\\a4po\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\a4po\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.25\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.25.nupkg.sha512",
+    "C:\\Users\\a4po\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\a4po\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.25\\microsoft.aspnetcore.app.runtime.win-x64.6.0.25.nupkg.sha512",
+    "C:\\Users\\a4po\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.25\\microsoft.netcore.app.crossgen2.win-x64.6.0.25.nupkg.sha512",
+    "C:\\Users\\a4po\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PopCast/1.0.0": {
+        "dependencies": {
+          "LibVLCSharp": "3.9.0",
+          "LibVLCSharp.WinForms": "3.9.0",
+          "Microsoft.NET.ILLink.Tasks": "8.0.8",
+          "VideoLAN.LibVLC.Windows": "3.0.21"
+        },
+        "runtime": {
+          "PopCast.dll": {}
+        }
+      },
+      "LibVLCSharp/3.9.0": {
+        "runtime": {
+          "lib/net6.0/LibVLCSharp.dll": {
+            "assemblyVersion": "3.9.0.0",
+            "fileVersion": "3.9.0.0"
+          }
+        }
+      },
+      "LibVLCSharp.WinForms/3.9.0": {
+        "dependencies": {
+          "LibVLCSharp": "3.9.0"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/LibVLCSharp.WinForms.dll": {
+            "assemblyVersion": "3.9.0.0",
+            "fileVersion": "3.9.0.0"
+          }
+        }
+      },
+      "Microsoft.NET.ILLink.Tasks/8.0.8": {},
+      "VideoLAN.LibVLC.Windows/3.0.21": {}
+    }
+  },
+  "libraries": {
+    "PopCast/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibVLCSharp/3.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wydvN5kotK5y/ZRC04/F6YUqesJCzdixaItRkR8L0/nOLSs2/BJ7rKRbU7BxkxpKIBqlN8EpuXxH/fQEZEHtuw==",
+      "path": "libvlcsharp/3.9.0",
+      "hashPath": "libvlcsharp.3.9.0.nupkg.sha512"
+    },
+    "LibVLCSharp.WinForms/3.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FYtdzmuQ2vDit9L+VomO8+oLLoQ/ISLX3Ixl/G+CU1YFJh3vBsgd++XztxkGQvk3p8UvRKR6zzi4LNomIE+RAQ==",
+      "path": "libvlcsharp.winforms/3.9.0",
+      "hashPath": "libvlcsharp.winforms.3.9.0.nupkg.sha512"
+    },
+    "Microsoft.NET.ILLink.Tasks/8.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P8wR6MUWwYXIjPJuBaZgo5zlI/GWI6QEAo6NyVIbPefa9CCkohYu7dP2rD/mrqnjEqfRHyl+h9VZrDoGpELqYg==",
+      "path": "microsoft.net.illink.tasks/8.0.8",
+      "hashPath": "microsoft.net.illink.tasks.8.0.8.nupkg.sha512"
+    },
+    "VideoLAN.LibVLC.Windows/3.0.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1b1yjZPIzS2+s6YZv9Z5Co/q2srIvo03ZToPvZblWreeyeFGkLDwX7WZat8AxCB9uMQV6VUnms67SgQqko7Z0w==",
+      "path": "videolan.libvlc.windows/3.0.21",
+      "hashPath": "videolan.libvlc.windows.3.0.21.nupkg.sha512"
+    }
+  }
+}
